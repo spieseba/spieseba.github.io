@@ -1,0 +1,10 @@
+<figure class="gallery__image">
+  {% comment %}
+  Native browser lazy loading without blur effect
+  <img src="{{ include.src }}" loading="lazy" alt="{{ include.alt | default: '' }}">
+  {% endcomment %}
+  <img class="lazy" data-src="{{ include.src }}" alt="{{ include.alt | default: '' }}">
+  {% if include.caption %}
+  <figcaption class="gallery__image__caption">{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>
