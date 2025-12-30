@@ -71,11 +71,8 @@ I also enjoy reading, both fiction and non-fiction, especially crime and mystery
 
 Occasionally, I also enjoy video games or movies, particularly when they emphasize strong storytelling or offer a unique experience or perspective.
 
-<div class="gallery-box">
-  <div class="gallery gallery-columns-3">
-    {% include img.html src ="/images/about/wl-1.jpeg" alt="Weightlifting-1" caption="" %}
-    {% include img.html src ="/images/about/wl-2.jpeg" alt="Weightlifting-2" caption="" %}
-    {% include img.html src ="/images/about/wl-3.jpeg" alt="Weightlifting-3" caption="" %}
+<div class="gallery-box" style="max-width: 40%; margin: 0 auto;">
+  <div class="gallery gallery-columns-1">
+    {% include img.html src ="/images/about/weightlifting.jpg" alt="Functional fitness" caption="120kg thruster" %}
   </div>
-  <em>I like lifting heavy things up and putting them down.</em>
 </div>

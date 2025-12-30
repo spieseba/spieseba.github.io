@@ -9,4 +9,4 @@ tags_color: '#3eb99a'
 toc: false
 ---
 
-🚧 !This site is currently under construction! 🚧
+🚧 This site is currently under construction 🚧
