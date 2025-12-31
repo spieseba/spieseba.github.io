@@ -44,7 +44,7 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_avatar: /images/home/selfie.jpeg
+  hero_avatar: /images/home/me.jpg
   hero_title: Hello there!<br>I'm Sebastian 👋
   hero_subtitle: 
   hero_description: |
@@ -56,19 +56,26 @@ hero:
 
 # Logos
 logos:
-  enable: false
-  logos_title: Technologies
+  enable: true
+  logos_title: Tech Stack
   logo_image:
-    - alt: "Game Boy"
-      image: "/images/1000.jpg"
-    - alt: "Super Nintendo"
-      image: "/images/1001.jpg"
-    - alt: "Keyboard"
-      image: "/images/1002.jpg"
-    - alt: "Headphones"
-      image: "/images/1003.jpg"
-    - alt: "Mouse"
-      image: "/images/1004.jpg"
+    - alt: "Python"
+      image: "/images/home/logos/python.svg"
+    - alt: "C"
+      image: "/images/home/logos/c.svg"
+    - alt: "C++"
+      image: "/images/home/logos/cplusplus.svg"
+    - alt: "Git"
+      image: "/images/home/logos/git.svg"
+    - alt: "Linux"
+      image: "/images/home/logos/tux.svg"
+    - alt: "PyTorch"
+      image: "/images/home/logos/pytorch.svg"
+    - alt: "TensorFlow"
+      image: "/images/home/logos/tensorflow.svg"
+    - alt: "NumPy"
+      image: "/images/home/logos/numpy.svg"
+
 
 
 #-------------------------------
