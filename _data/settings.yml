@@ -66,7 +66,7 @@ logos:
     - alt: "C++"
       image: "/images/home/logos/cplusplus.svg"
     - alt: "Git"
-      image: "/images/home/logos/git.svg"
+      image: "/images/home/logos/git-white.svg"
     - alt: "Linux"
       image: "/images/home/logos/tux.svg"
     - alt: "PyTorch"
