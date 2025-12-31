@@ -8,6 +8,27 @@ description:
 ## Bio
 I am currently a postdoctoral research scientist in lattice QCD at the University of Regensburg. I am strongly interested in computational problem solving, combining the rigor of theoretical physics with a pragmatic, engineering-driven approach. I enjoy working across methods and technologies, from algorithms and modeling to data-driven approaches and low-level systems.
 
+### What I'm Up To
+
+```bash
+$ whoami 
+Sebastian Spiegel - Computational Physicist
+
+$ currently --list
+- Building TinyML object detection on microcontroller
+- Developing the portfolio webpage you are reading
+- Transitioning from academia to industry
+
+$ queue
+- Physics-Informed Neural Networks project
+- Reinforcement Learning (NEAT algorithm)
+- CUDA optimization and memory management
+
+$ last_updated
+December 2025
+```
+
+
 ## Background
 
 <div class="entry timeline-row">
@@ -67,12 +88,12 @@ I am currently a postdoctoral research scientist in lattice QCD at the Universit
 ## Life outside of work
 I have a passion for Olympic weightlifting, functional fitness, and sports in general, which helps me stay grounded after long days in front of a screen.
 
-<div class="gallery-box" style="max-width: 30%; margin: 0 auto;">
+<div class="gallery-box" style="max-width: 40%; margin: 0 auto;">
   <div class="gallery gallery-columns-1">
-    {% include img.html src ="/images/about/weightlifting.jpg" alt="Functional fitness" caption="" %}
+    {% include img.html src ="/images/about/cf_open_232.jpg" alt="Functional fitness" caption="CrossFit Open 23.2" %}
   </div>
 </div>
 
-<br>I like to read, both fiction and non-fiction, especially crime and mystery. Stephen King and Simon Beckett feature prominently on my reading list, with the occasional Yuval Noah Harari or Nassim Nicholas Taleb scattered in. Lately, I don’t find as much time to read as I’d like, but audiobooks have become a welcome way to increase my book count during commutes or while cleaning. 😉
+<br>I like to read, both fiction and non-fiction, especially crime and mystery. Stephen King and Simon Beckett feature prominently on my reading list, with the occasional Yuval Noah Harari or Nassim Nicholas Taleb scattered in. Lately, I don’t find as much time to read as I’d like, but audiobooks have become a welcome way to increase my book count during commutes or during chores. 😉
 
 Occasionally, I also enjoy video games or movies, particularly when they emphasize strong storytelling or offer a unique experience or perspective.
