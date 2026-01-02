@@ -94,6 +94,6 @@ I have a passion for Olympic weightlifting, functional fitness, and sports in ge
   </div>
 </div>
 
-<br>I like to read, both fiction and non-fiction, especially crime and mystery. Stephen King and Simon Beckett feature prominently on my reading list, with the occasional Yuval Noah Harari or Nassim Nicholas Taleb scattered in. Lately, I don’t find as much time to read as I’d like, but audiobooks have become a welcome way to increase my book count during commutes or during chores. 😉
+<br>I like to read, both fiction and non-fiction, especially crime and mystery. Stephen King and Simon Beckett feature prominently on my reading list, with the occasional Yuval Noah Harari or Nassim Nicholas Taleb scattered in. Lately, I don’t find as much time to read as I’d like, but audiobooks have become a welcome way to increase my book count during commutes or chores. 😉
 
 Occasionally, I also enjoy video games or movies, particularly when they emphasize strong storytelling or offer a unique experience or perspective.
